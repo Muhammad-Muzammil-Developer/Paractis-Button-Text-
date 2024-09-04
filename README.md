@@ -1,2 +1,2 @@
 # Paractis-Button-Text
-Paractis for different buttons and text
+Paractis for different buttons and text in course
